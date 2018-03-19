@@ -20,6 +20,8 @@ public class Main {
         // TODO code application logic here
         System.out.println(Operaciones.Multiplicar(2, 3));
         System.out.println(Operaciones.Multiplicar(10.0, 1.16));
+        System.out.println(Operaciones.Sumar(1, 2));
+        System.out.println(Operaciones.Sumar(4.2, 0.3));
     }
     
 }

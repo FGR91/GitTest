@@ -16,4 +16,11 @@ public class Operaciones {
     public static double Multiplicar(double a, double b){
         return a*b;
     }
+    public static int Sumar(int a, int b){
+        return a+b;
+    }
+    
+    public static double Sumar(double a, double b){
+        return a+b;
+    }
 }
